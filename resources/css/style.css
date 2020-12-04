@@ -91,6 +91,7 @@ header .mobile {
   header .mobile {
     display: block;
     width: 100%;
+    float: right;
   }
 
   header .content{
@@ -99,7 +100,7 @@ header .mobile {
   header .mobile ul {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: right;
     width: 100%;
   }
 
